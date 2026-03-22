@@ -8,7 +8,7 @@
 
 ---
 
-I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software by day. I'm the founder of Ortaggi Ltd — a wholesale fresh produce distributor — and I'm using code to modernise how we operate and how the market presents itself online.
+I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software by day. I work at a wholesale fresh produce distributor — and I've been tasked with modernising how we operate and how the market presents itself online.
 
 ---
 
@@ -18,9 +18,9 @@ I work nights on the market floor at [New Covent Garden Market](https://www.newc
 <tr>
 <td width="50%" valign="top">
 
-**Ortaggi Wholesale Instagram Studio**
+**Wholesale Instagram Studio**
 
-A purpose-built content creation platform for NCGM. 10 template types (produce spotlights, market stats, BTS overlays, company shoutouts, seasonal guides, food hacks, testimonials, people spotlights, highlight covers) — each with a dedicated editor, live preview, and high-res PNG export. Includes a carousel builder, caption generator with pillar-specific hashtag banks, and a content bank manager backed by Firebase RTDB.
+A purpose-built content creation platform for NCGM. 10 template types (produce spotlights, market stats, BTS overlays, company shoutouts, seasonal guides, food hacks, testimonials, people spotlights, highlight covers) — each with a dedicated editor, live preview, and high-res PNG export. Includes a carousel builder, caption generator with pillar-specific hashtag banks, and a content manager backed by Firebase.
 
 `React 19` `TypeScript 5.9` `Vite 8` `Tailwind 4` `Zustand` `Firebase`
 
@@ -29,7 +29,7 @@ A purpose-built content creation platform for NCGM. 10 template types (produce s
 
 **Ortaggi Digital Revamp**
 
-A full rebuild of Ortaggi's digital presence — website ([ortaggi.co.uk](https://ortaggi.co.uk)), brand identity system, publishing/press pack, launch content series, and comprehensive reference documentation covering content strategy, brand voice, NCGM positioning, and profile setup. Every customer-facing touchpoint, rebuilt from scratch.
+A full rebuild of Ortaggi's digital presence — website, brand identity system, publishing/press pack, launch content series, and comprehensive reference documentation covering content strategy, brand voice, NCGM positioning, and profile setup. Every customer-facing touchpoint, rebuilt from scratch.
 
 `TypeScript` `React` `Firebase`
 
