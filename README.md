@@ -8,7 +8,7 @@
 
 ---
 
-I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software by day. I work at a wholesale fresh produce distributor — and I've been tasked with modernising how we operate and how the market presents itself online.
+I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software by day. I work at a wholesale fresh produce distributor and I've been tasked with modernising how we operate.
 
 ---
 
