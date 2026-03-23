@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ff6a00"/>
-      <stop offset="25%" stop-color="#ff00b8"/>
-      <stop offset="50%" stop-color="#7a00ff"/>
-      <stop offset="75%" stop-color="#0099ff"/>
-      <stop offset="100%" stop-color="#00e6a7"/>
+      <stop offset="0%" stop-color="#ffd166"/>
+      <stop offset="25%" stop-color="#ff9f1c"/>
+      <stop offset="50%" stop-color="#fb5607"/>
+      <stop offset="75%" stop-color="#ff006e"/>
+      <stop offset="100%" stop-color="#ff4d6d"/>
     </linearGradient>
     <filter id="blur" x="-20%" y="-200%" width="140%" height="500%">
       <feGaussianBlur stdDeviation="8"/>
@@ -20,7 +20,7 @@
     .wave1 { animation: flow 5s ease-in-out infinite; }
     .wave2 { animation: flow 7s ease-in-out infinite reverse; opacity: 0.65; }
   </style>
-  <rect width="1200" height="120" fill="#060810"/>
+  <rect width="1200" height="120" fill="#130b0c"/>
   <path class="wave1" d="M0 74 C120 40 240 104 360 74 C480 44 600 104 720 74 C840 44 960 104 1080 74 C1140 58 1170 54 1200 54" stroke="url(#g)" stroke-width="7" fill="none"/>
   <path class="wave2" d="M0 86 C120 56 240 112 360 86 C480 60 600 112 720 86 C840 60 960 112 1080 86 C1140 70 1170 66 1200 66" stroke="url(#g)" stroke-width="4" fill="none"/>
   <path d="M0 74 C120 40 240 104 360 74 C480 44 600 104 720 74 C840 44 960 104 1080 74 C1140 58 1170 54 1200 54" stroke="url(#g)" stroke-width="14" fill="none" filter="url(#blur)" opacity="0.55"/>

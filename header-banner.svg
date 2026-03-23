@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 290" width="100%">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#03001c"/>
-      <stop offset="40%"  stop-color="#0d0030"/>
-      <stop offset="100%" stop-color="#001428"/>
+      <stop offset="0%"   stop-color="#1f1207"/>
+      <stop offset="45%"  stop-color="#2a120f"/>
+      <stop offset="100%" stop-color="#12090f"/>
     </linearGradient>
     <radialGradient id="rg1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ff00bb" stop-opacity="0.50"/>
-      <stop offset="100%" stop-color="#ff00bb" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff7a18" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ff7a18" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="rg2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0077ff" stop-opacity="0.40"/>
-      <stop offset="100%" stop-color="#0077ff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff2a8f" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#ff2a8f" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="rg3" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00ffaa" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#00ffaa" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ffd166" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#ffd166" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="rg4" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#aa00ff" stop-opacity="0.40"/>
-      <stop offset="100%" stop-color="#aa00ff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff006e" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#ff006e" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="rg5" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ffbe0b" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#ffbe0b" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="clip">
       <rect width="860" height="290"/>
@@ -40,9 +40,9 @@
     @keyframes blb2{ 0%,100%{opacity:0.8} 50%{opacity:0.20} }
 
     @keyframes tg {
-      0%,100% { filter:drop-shadow(0 0 7px #ff00cc) drop-shadow(0 0 22px #9900ff); }
-      33%     { filter:drop-shadow(0 0 7px #00ffaa) drop-shadow(0 0 22px #0066ff); }
-      66%     { filter:drop-shadow(0 0 7px #ffaa00) drop-shadow(0 0 22px #ff0055); }
+      0%,100% { filter:drop-shadow(0 0 7px #ff8a00) drop-shadow(0 0 24px #ff2a8f); }
+      33%     { filter:drop-shadow(0 0 7px #ffd166) drop-shadow(0 0 24px #ff006e); }
+      66%     { filter:drop-shadow(0 0 7px #ffbe0b) drop-shadow(0 0 24px #fb5607); }
     }
 
     @keyframes sp  { 0%,100%{opacity:1;transform:scale(1)}   50%{opacity:0.15;transform:scale(0.4)} }
@@ -88,7 +88,7 @@
 
     .title{animation:tg 4s ease-in-out infinite}
     .sub{animation:sub 5s ease-in-out infinite 1s}
-    .subPlate{fill:#060915cc;stroke:#ffffff30;stroke-width:1}
+    .subPlate{fill:#120b11cc;stroke:#ffd16666;stroke-width:1}
   </style>
 
   <g clip-path="url(#clip)">
@@ -108,14 +108,14 @@
     <path d="M0,290 Q215,248 430,268 Q645,286 860,254 L860,290 Z" fill="#ffffff06"/>
 
     <!-- ░░ Sparkles ✦ ░░ -->
-    <text class="s1" x="258" y="82"  font-size="16" fill="#ff88dd">✦</text>
-    <text class="s2" x="574" y="76"  font-size="11" fill="#88ddff">✦</text>
-    <text class="s3" x="338" y="248" font-size="13" fill="#88ffcc">✦</text>
-    <text class="s4" x="502" y="255" font-size="11" fill="#ffcc44">✦</text>
-    <text class="s5" x="232" y="218" font-size="13" fill="#cc88ff">✦</text>
-    <text class="s6" x="596" y="228" font-size="15" fill="#ff88aa">✦</text>
-    <text class="s7" x="420" y="56"  font-size="10" fill="#aaffee">✦</text>
-    <text class="s8" x="440" y="243" font-size="12" fill="#ffaacc">✦</text>
+    <text class="s1" x="258" y="82"  font-size="16" fill="#ffd166">✦</text>
+    <text class="s2" x="574" y="76"  font-size="11" fill="#ffb703">✦</text>
+    <text class="s3" x="338" y="248" font-size="13" fill="#ff7a18">✦</text>
+    <text class="s4" x="502" y="255" font-size="11" fill="#ff2a8f">✦</text>
+    <text class="s5" x="232" y="218" font-size="13" fill="#ffd166">✦</text>
+    <text class="s6" x="596" y="228" font-size="15" fill="#fb5607">✦</text>
+    <text class="s7" x="420" y="56"  font-size="10" fill="#ffbe0b">✦</text>
+    <text class="s8" x="440" y="243" font-size="12" fill="#ff9f1c">✦</text>
 
     <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
     <!-- ░░   FLOATING FRUITS & VEG   ░░ -->
@@ -161,10 +161,10 @@
     <text class="v4"  x="810" y="186" font-size="24">🥝</text>
 
     <!-- Bonus scatter (corners) -->
-    <text class="v2"  x="30"  y="30"  font-size="22">🫐</text>
-    <text class="v8"  x="808" y="38"  font-size="22">🥦</text>
-    <text class="v11" x="14"  y="272" font-size="22">🌽</text>
-    <text class="v17" x="824" y="270" font-size="22">🍓</text>
+    <text class="v2"  x="30"  y="30"  font-size="22">🤠</text>
+    <text class="v8"  x="808" y="38"  font-size="22">🪕</text>
+    <text class="v11" x="14"  y="272" font-size="22">🐎</text>
+    <text class="v17" x="824" y="270" font-size="22">🌵</text>
 
     <!-- ░░░░░░░░░░░░░░░░░░░ -->
     <!-- ░░   MAIN TITLE   ░░ -->
