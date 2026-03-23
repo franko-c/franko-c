@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Market+nights.+Code+days.;Building+digital+tools+for+NCGM.;Practical+software+for+real+world+trade.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Market+nights.+Code+days.;I+build+software+for+the+produce+world.;Useful+beats+fancy.)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/floating-veggies.svg" alt="floating veggies" width="100%" />
 
@@ -10,11 +10,11 @@
 
 ---
 
-I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software in the daylight hours. I am helping modernise a wholesale produce business from the inside out, with tools that save time, sharpen communication, and make the work feel less chaotic.
+I work nights at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and write code in the daylight hours. Most of what I build is for the produce world I already live in: tools that save time, cut the faff, and make the business look as good online as it does in real life.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
-### What I am building
+### What I'm building
 
 <table>
 <tr>
@@ -22,33 +22,33 @@ I work nights on the market floor at [New Covent Garden Market](https://www.newc
 
 **Wholesale Instagram Studio**
 
-A practical content workspace built for people who actually run produce businesses, not marketing agencies. It turns rough ideas into polished posts fast: templates, live previews, carousels, and export-ready assets that can go out the same day.
+I am building a content tool for produce businesses like ours. It helps turn rough ideas into decent posts quickly, without needing a full marketing circus every time somebody wants to say something online.
 
-This is about consistency and confidence, not just prettier graphics.
+The point is not to be flashy. The point is to make good work easier to ship.
 
 </td>
 <td width="50%" valign="top">
 
 **Ortaggi Digital Revamp**
 
-A full reset of Ortaggi's digital presence: website, brand language, launch content, profile systems, and reference docs. The goal is simple: when someone discovers the business online, it should feel as credible and high-quality as the operation on the floor.
+I am rebuilding Ortaggi's digital presence from the ground up: website, brand voice, launch content, profile setup, and the bits of documentation that stop everything turning into guesswork.
 
-Every touchpoint is being rebuilt to feel deliberate.
+If somebody looks us up online, I want it to feel sharp, trustworthy, and unmistakably us.
 
 </td>
 </tr>
 </table>
 
 **The pipeline**
-AI helps process market signals, drafts content briefs, and routes execution into Notion. Human operators still make the calls. The result is a weekly rhythm that is faster, clearer, and much less manual.
+AI does the heavy lifting where it is useful: pulling signals together, drafting briefs, and teeing work up in Notion. Humans still do the judging. It is less "replace people" and more "stop doing the same boring admin fifteen times."
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
-### Where this is going
+### Where this is headed
 
-1. Turn current tools into dependable systems with better structure, testing, and cleaner data flow.
-2. Expand trade intelligence coverage across more sourcing regions and languages.
-3. Build a reusable playbook for the wider NCGM community so more traders can modernise without enterprise budgets.
+1. Make the current tools sturdier, calmer, and less likely to wobble when they get bigger.
+2. Pull in better trade intelligence from more regions, in more languages, without turning the whole thing into spaghetti.
+3. Build something useful enough that other traders at NCGM could nick the playbook and use it too.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
@@ -75,9 +75,9 @@ AI helps process market signals, drafts content briefs, and routes execution int
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/music-now-playing.svg" alt="music now playing" width="100%" />
 
-- On two wheels: road cycling and Zwift whenever London weather allows.
-- In the headphones: country first, with left turns into alt and EDM.
-- In the kitchen: cake, pastries, and sweet treats with no restraint.
+- On two wheels: road cycling and Zwift, depending on weather and levels of self-respect.
+- In the headphones: mostly country, with occasional left turns into alt and EDM.
+- In the kitchen: cake, pastries, and sweet things in quantities that would worry a nutritionist.
 - In game sessions: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
@@ -95,7 +95,7 @@ AI helps process market signals, drafts content briefs, and routes execution int
 <img src="https://github-readme-stats.vercel.app/api?username=franko-c&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9fd3ff&icon_color=ff7b72&text_color=c9d1d9" alt="GitHub stats" width="49%" />
 <img src="https://streak-stats.demolab.com?user=franko-c&theme=transparent&hide_border=true&ring=9fd3ff&fire=ff7b72&currStreakLabel=c9d1d9" alt="GitHub streak" width="49%" />
 
-<sub>Snake activity uses your public GitHub contribution graph. If it looks sparse, commits may be landing with a non-verified email or outside your public graph settings.</sub>
+<sub>The snake eats from the public contribution graph. If it still looks hungry, GitHub is probably being slow or moody again.</sub>
 
 ---
 
