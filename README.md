@@ -42,7 +42,7 @@ If somebody looks us up online, I want it to feel sharp, trustworthy, and unmist
 **The pipeline**
 AI does the heavy lifting where it is useful: pulling signals together, drafting briefs, and teeing work up in Notion. Humans still do the judging. It is less "replace people" and more "stop doing the same boring admin fifteen times."
 
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-2.svg" alt="section divider" width="100%" />
 
 ### Where this is headed
 
@@ -50,7 +50,7 @@ AI does the heavy lifting where it is useful: pulling signals together, drafting
 2. Pull in better trade intelligence from more regions, in more languages, without turning the whole thing into spaghetti.
 3. Build something useful enough that other traders at NCGM could nick the playbook and use it too.
 
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
 
 <div align="center">
 
@@ -67,7 +67,7 @@ AI does the heavy lifting where it is useful: pulling signals together, drafting
 
 </div>
 
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-2.svg" alt="section divider" width="100%" />
 
 ### Off the clock
 
@@ -80,7 +80,7 @@ AI does the heavy lifting where it is useful: pulling signals together, drafting
 - In the kitchen: cake, pastries, and sweet things in quantities that would worry a nutritionist.
 - In game sessions: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
 
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
 
 <div align="center">
 
