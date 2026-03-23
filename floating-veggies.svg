@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%" preserveAspectRatio="xMidYMid meet">
+  <style>
+    @keyframes f1 {
+      0%,100% { transform: translateY(0px); }
+      50%     { transform: translateY(-22px); }
+    }
+    @keyframes f2 {
+      0%,100% { transform: translateY(0px); }
+      50%     { transform: translateY(-14px); }
+    }
+    @keyframes f3 {
+      0%,100% { transform: translateY(0px); }
+      50%     { transform: translateY(-28px); }
+    }
+    @keyframes f4 {
+      0%,100% { transform: translateY(0px); }
+      50%     { transform: translateY(-18px); }
+    }
+    .v1  { animation: f1 2.8s ease-in-out infinite 0.00s; }
+    .v2  { animation: f2 3.4s ease-in-out infinite 0.55s; }
+    .v3  { animation: f3 3.1s ease-in-out infinite 1.10s; }
+    .v4  { animation: f4 3.7s ease-in-out infinite 0.30s; }
+    .v5  { animation: f1 2.9s ease-in-out infinite 0.80s; }
+    .v6  { animation: f3 3.3s ease-in-out infinite 0.20s; }
+    .v7  { animation: f2 3.0s ease-in-out infinite 1.25s; }
+    .v8  { animation: f4 3.5s ease-in-out infinite 0.65s; }
+    .v9  { animation: f1 2.7s ease-in-out infinite 0.95s; }
+    .v10 { animation: f3 3.2s ease-in-out infinite 0.40s; }
+    .v11 { animation: f2 3.6s ease-in-out infinite 1.15s; }
+    .v12 { animation: f4 2.9s ease-in-out infinite 0.70s; }
+    .v13 { animation: f1 3.1s ease-in-out infinite 0.15s; }
+    .v14 { animation: f3 2.8s ease-in-out infinite 1.35s; }
+  </style>
+
+  <text class="v1"  x="20"   y="68" font-size="34">🥦</text>
+  <text class="v2"  x="108"  y="80" font-size="28">🥕</text>
+  <text class="v3"  x="196"  y="50" font-size="30">🧅</text>
+  <text class="v4"  x="282"  y="74" font-size="26">🥬</text>
+  <text class="v5"  x="370"  y="56" font-size="32">🫑</text>
+  <text class="v6"  x="460"  y="82" font-size="28">🥒</text>
+  <text class="v7"  x="548"  y="46" font-size="34">🍅</text>
+  <text class="v8"  x="638"  y="76" font-size="26">🌽</text>
+  <text class="v9"  x="728"  y="55" font-size="30">🥑</text>
+  <text class="v10" x="818"  y="80" font-size="28">🌿</text>
+  <text class="v11" x="906"  y="50" font-size="32">🧄</text>
+  <text class="v12" x="994"  y="74" font-size="28">🥔</text>
+  <text class="v13" x="1082" y="52" font-size="30">🧅</text>
+  <text class="v14" x="1152" y="72" font-size="26">🥦</text>
+</svg>
