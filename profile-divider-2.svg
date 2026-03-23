@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
   <defs>
     <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#dbeafe"/>
-      <stop offset="35%" stop-color="#93c5fd"/>
-      <stop offset="70%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="30%" stop-color="#06b6d4"/>
+      <stop offset="65%" stop-color="#06d6a0"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
     </linearGradient>
     <filter id="blur2" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="7"/>
+      <feGaussianBlur stdDeviation="11"/>
     </filter>
   </defs>
   <style>
@@ -19,8 +19,8 @@
     .w1 { animation: drift 6s ease-in-out infinite; }
     .w2 { animation: drift 8s ease-in-out infinite reverse; opacity: 0.58; }
   </style>
-  <rect width="1200" height="120" fill="#0a1525"/>
-  <path class="w1" d="M0 68 C120 98 240 44 360 68 C480 92 600 40 720 68 C840 94 960 42 1080 68 C1140 80 1170 84 1200 84" stroke="url(#g2)" stroke-width="6" fill="none"/>
-  <path class="w2" d="M0 82 C120 106 240 56 360 82 C480 106 600 58 720 82 C840 106 960 58 1080 82 C1140 94 1170 98 1200 98" stroke="url(#g2)" stroke-width="4" fill="none"/>
-  <path d="M0 68 C120 98 240 44 360 68 C480 92 600 40 720 68 C840 94 960 42 1080 68 C1140 80 1170 84 1200 84" stroke="url(#g2)" stroke-width="12" fill="none" filter="url(#blur2)" opacity="0.45"/>
+  <rect width="1200" height="120" fill="#041e2c"/>
+  <path class="w1" d="M0 68 C120 105 240 35 360 68 C480 98 600 32 720 68 C840 100 960 35 1080 68 C1140 84 1170 88 1200 88" stroke="url(#g2)" stroke-width="10" fill="none"/>
+  <path class="w2" d="M0 82 C120 112 240 48 360 82 C480 112 600 50 720 82 C840 112 960 50 1080 82 C1140 99 1170 104 1200 104" stroke="url(#g2)" stroke-width="6" fill="none"/>
+  <path d="M0 68 C120 105 240 35 360 68 C480 98 600 32 720 68 C840 100 960 35 1080 68 C1140 84 1170 88 1200 88" stroke="url(#g2)" stroke-width="18" fill="none" filter="url(#blur2)" opacity="0.74"/>
 </svg>

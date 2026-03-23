@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a5f3fc"/>
-      <stop offset="25%" stop-color="#7dd3fc"/>
-      <stop offset="50%" stop-color="#60a5fa"/>
-      <stop offset="75%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="25%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="75%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
     </linearGradient>
     <filter id="blur" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="8"/>
+      <feGaussianBlur stdDeviation="12"/>
     </filter>
   </defs>
   <style>
@@ -20,8 +20,8 @@
     .wave1 { animation: flow 5s ease-in-out infinite; }
     .wave2 { animation: flow 7s ease-in-out infinite reverse; opacity: 0.65; }
   </style>
-  <rect width="1200" height="120" fill="#0b1220"/>
-  <path class="wave1" d="M0 74 C120 40 240 104 360 74 C480 44 600 104 720 74 C840 44 960 104 1080 74 C1140 58 1170 54 1200 54" stroke="url(#g)" stroke-width="7" fill="none"/>
-  <path class="wave2" d="M0 86 C120 56 240 112 360 86 C480 60 600 112 720 86 C840 60 960 112 1080 86 C1140 70 1170 66 1200 66" stroke="url(#g)" stroke-width="4" fill="none"/>
-  <path d="M0 74 C120 40 240 104 360 74 C480 44 600 104 720 74 C840 44 960 104 1080 74 C1140 58 1170 54 1200 54" stroke="url(#g)" stroke-width="14" fill="none" filter="url(#blur)" opacity="0.55"/>
+  <rect width="1200" height="120" fill="#051c2c"/>
+  <path class="wave1" d="M0 74 C120 30 240 110 360 74 C480 38 600 110 720 74 C840 38 960 110 1080 74 C1140 50 1170 40 1200 40" stroke="url(#g)" stroke-width="11" fill="none"/>
+  <path class="wave2" d="M0 86 C120 52 240 120 360 86 C480 54 600 120 720 86 C840 54 960 120 1080 86 C1140 72 1170 62 1200 62" stroke="url(#g)" stroke-width="7" fill="none"/>
+  <path d="M0 74 C120 30 240 110 360 74 C480 38 600 110 720 74 C840 38 960 110 1080 74 C1140 50 1170 40 1200 40" stroke="url(#g)" stroke-width="20" fill="none" filter="url(#blur)" opacity="0.78"/>
 </svg>

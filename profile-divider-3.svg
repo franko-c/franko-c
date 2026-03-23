@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
   <defs>
     <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#e0f2fe"/>
-      <stop offset="30%" stop-color="#7dd3fc"/>
-      <stop offset="65%" stop-color="#60a5fa"/>
-      <stop offset="100%" stop-color="#93c5fd"/>
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="35%" stop-color="#0891b2"/>
+      <stop offset="70%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0284c7"/>
     </linearGradient>
     <filter id="blur3" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="8"/>
+      <feGaussianBlur stdDeviation="13"/>
     </filter>
   </defs>
   <style>
@@ -19,8 +19,8 @@
     .waveA { animation: sway 7s ease-in-out infinite; }
     .waveB { animation: sway 9s ease-in-out infinite reverse; opacity: 0.62; }
   </style>
-  <rect width="1200" height="120" fill="#08121f"/>
-  <path class="waveA" d="M0 72 C100 52 200 92 300 72 C400 52 500 92 600 72 C700 52 800 92 900 72 C1000 52 1100 92 1200 72" stroke="url(#g3)" stroke-width="7" fill="none"/>
-  <path class="waveB" d="M0 86 C100 66 200 104 300 86 C400 66 500 104 600 86 C700 66 800 104 900 86 C1000 66 1100 104 1200 86" stroke="url(#g3)" stroke-width="4" fill="none"/>
-  <path d="M0 72 C100 52 200 92 300 72 C400 52 500 92 600 72 C700 52 800 92 900 72 C1000 52 1100 92 1200 72" stroke="url(#g3)" stroke-width="14" fill="none" filter="url(#blur3)" opacity="0.48"/>
+  <rect width="1200" height="120" fill="#031a26"/>
+  <path class="waveA" d="M0 72 C100 45 200 99 300 72 C400 45 500 99 600 72 C700 45 800 99 900 72 C1000 45 1100 99 1200 72" stroke="url(#g3)" stroke-width="11" fill="none"/>
+  <path class="waveB" d="M0 86 C100 61 200 112 300 86 C400 61 500 112 600 86 C700 61 800 112 900 86 C1000 61 1100 112 1200 86" stroke="url(#g3)" stroke-width="7" fill="none"/>
+  <path d="M0 72 C100 45 200 99 300 72 C400 45 500 99 600 72 C700 45 800 99 900 72 C1000 45 1100 99 1200 72" stroke="url(#g3)" stroke-width="20" fill="none" filter="url(#blur3)" opacity="0.76"/>
 </svg>
