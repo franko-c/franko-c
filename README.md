@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=230&section=header&text=DAR1EN&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Tech%20Lead%20%40%20Ortaggi%20Ltd%20%C2%B7%20New%20Covent%20Garden%20Market%2C%20London&descSize=16&descAlignY=52&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Market+nights.+Code+days.;8%2C000%2B+lines+of+TypeScript+across+66+source+files;Building+NCGM's+digital+infrastructure)](https://git.io/typing-svg)
 
@@ -104,6 +104,6 @@ The long game is bigger than Ortaggi. I want to bring digital tooling to the wid
 
 <img src="https://komarev.com/ghpvc/?username=franko-c&style=flat-square&color=243b55&label=profile+views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=100&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner" width="100%" />
 
 </div>

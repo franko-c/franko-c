@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 290" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#03001c"/>
+      <stop offset="40%"  stop-color="#0d0030"/>
+      <stop offset="100%" stop-color="#001428"/>
+    </linearGradient>
+    <radialGradient id="rg1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff00bb" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#ff00bb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0077ff" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#0077ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffaa" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#00ffaa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#aa00ff" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#aa00ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip">
+      <rect width="860" height="290"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes fl1 { 0%,100%{transform:translateY(0)}   50%{transform:translateY(-20px)} }
+    @keyframes fl2 { 0%,100%{transform:translateY(0)}   50%{transform:translateY(-13px)} }
+    @keyframes fl3 { 0%,100%{transform:translateY(0)}   50%{transform:translateY(-25px)} }
+    @keyframes fl4 { 0%,100%{transform:translateY(0)}   50%{transform:translateY(-16px)} }
+
+    @keyframes blb { 0%,100%{opacity:1}   50%{opacity:0.35} }
+    @keyframes blb2{ 0%,100%{opacity:0.8} 50%{opacity:0.20} }
+
+    @keyframes tg {
+      0%,100% { filter:drop-shadow(0 0 7px #ff00cc) drop-shadow(0 0 22px #9900ff); }
+      33%     { filter:drop-shadow(0 0 7px #00ffaa) drop-shadow(0 0 22px #0066ff); }
+      66%     { filter:drop-shadow(0 0 7px #ffaa00) drop-shadow(0 0 22px #ff0055); }
+    }
+
+    @keyframes sp  { 0%,100%{opacity:1;transform:scale(1)}   50%{opacity:0.15;transform:scale(0.4)} }
+    @keyframes sub { 0%,100%{opacity:1} 50%{opacity:0.55} }
+
+    .b1{animation:blb  7s ease-in-out infinite 0s}
+    .b2{animation:blb2 9s ease-in-out infinite 2s}
+    .b3{animation:blb  8s ease-in-out infinite 4s}
+    .b4{animation:blb2 6s ease-in-out infinite 1s}
+    .b5{animation:blb  10s ease-in-out infinite 3s}
+
+    .v1 {animation:fl1 2.8s ease-in-out infinite 0.00s}
+    .v2 {animation:fl2 3.3s ease-in-out infinite 0.50s}
+    .v3 {animation:fl3 3.7s ease-in-out infinite 1.00s}
+    .v4 {animation:fl4 2.6s ease-in-out infinite 0.30s}
+    .v5 {animation:fl1 3.1s ease-in-out infinite 1.50s}
+    .v6 {animation:fl2 2.9s ease-in-out infinite 0.80s}
+    .v7 {animation:fl3 3.5s ease-in-out infinite 0.20s}
+    .v8 {animation:fl4 3.0s ease-in-out infinite 1.20s}
+    .v9 {animation:fl1 2.7s ease-in-out infinite 0.70s}
+    .v10{animation:fl2 3.4s ease-in-out infinite 0.40s}
+    .v11{animation:fl3 2.5s ease-in-out infinite 1.80s}
+    .v12{animation:fl4 3.6s ease-in-out infinite 0.90s}
+    .v13{animation:fl1 3.2s ease-in-out infinite 1.30s}
+    .v14{animation:fl2 2.8s ease-in-out infinite 0.10s}
+    .v15{animation:fl3 3.0s ease-in-out infinite 1.60s}
+    .v16{animation:fl4 3.3s ease-in-out infinite 0.60s}
+    .v17{animation:fl1 2.9s ease-in-out infinite 2.00s}
+    .v18{animation:fl2 3.1s ease-in-out infinite 1.10s}
+    .v19{animation:fl3 3.8s ease-in-out infinite 0.35s}
+    .v20{animation:fl4 2.7s ease-in-out infinite 1.70s}
+    .v21{animation:fl1 3.0s ease-in-out infinite 0.55s}
+    .v22{animation:fl2 2.6s ease-in-out infinite 1.25s}
+
+    .s1{animation:sp 2.0s ease-in-out infinite 0.0s}
+    .s2{animation:sp 2.5s ease-in-out infinite 0.5s}
+    .s3{animation:sp 1.8s ease-in-out infinite 1.0s}
+    .s4{animation:sp 3.0s ease-in-out infinite 0.3s}
+    .s5{animation:sp 2.2s ease-in-out infinite 1.5s}
+    .s6{animation:sp 1.9s ease-in-out infinite 0.8s}
+    .s7{animation:sp 2.7s ease-in-out infinite 0.2s}
+    .s8{animation:sp 2.3s ease-in-out infinite 1.2s}
+
+    .title{animation:tg 4s ease-in-out infinite}
+    .sub{animation:sub 5s ease-in-out infinite 1s}
+  </style>
+
+  <g clip-path="url(#clip)">
+
+    <!-- ░░ Background ░░ -->
+    <rect width="860" height="290" fill="url(#bg)"/>
+
+    <!-- ░░ Psychedelic colour blobs ░░ -->
+    <ellipse class="b1" cx="175" cy="105" rx="235" ry="175" fill="url(#rg1)"/>
+    <ellipse class="b2" cx="670" cy="165" rx="215" ry="160" fill="url(#rg2)"/>
+    <ellipse class="b3" cx="430" cy="295" rx="265" ry="145" fill="url(#rg3)"/>
+    <ellipse class="b4" cx="75"  cy="210" rx="190" ry="150" fill="url(#rg4)"/>
+    <ellipse class="b5" cx="810" cy="55"  rx="165" ry="130" fill="url(#rg5)"/>
+
+    <!-- ░░ Decorative waves top + bottom ░░ -->
+    <path d="M0,0 Q215,48 430,24 Q645,-8 860,38 L860,0 Z"        fill="#ffffff08"/>
+    <path d="M0,290 Q215,248 430,268 Q645,286 860,254 L860,290 Z" fill="#ffffff06"/>
+
+    <!-- ░░ Sparkles ✦ ░░ -->
+    <text class="s1" x="258" y="82"  font-size="16" fill="#ff88dd">✦</text>
+    <text class="s2" x="574" y="76"  font-size="11" fill="#88ddff">✦</text>
+    <text class="s3" x="338" y="248" font-size="13" fill="#88ffcc">✦</text>
+    <text class="s4" x="502" y="255" font-size="11" fill="#ffcc44">✦</text>
+    <text class="s5" x="232" y="218" font-size="13" fill="#cc88ff">✦</text>
+    <text class="s6" x="596" y="228" font-size="15" fill="#ff88aa">✦</text>
+    <text class="s7" x="420" y="56"  font-size="10" fill="#aaffee">✦</text>
+    <text class="s8" x="440" y="243" font-size="12" fill="#ffaacc">✦</text>
+
+    <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+    <!-- ░░   FLOATING FRUITS & VEG   ░░ -->
+    <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+    <!-- Far-left column -->
+    <text class="v1"  x="6"   y="82"  font-size="32">🥦</text>
+    <text class="v2"  x="10"  y="198" font-size="26">🥕</text>
+    <text class="v3"  x="2"   y="142" font-size="22">🌿</text>
+
+    <!-- Left column -->
+    <text class="v4"  x="66"  y="56"  font-size="28">🍓</text>
+    <text class="v5"  x="70"  y="244" font-size="28">🧅</text>
+    <text class="v6"  x="52"  y="168" font-size="24">🫑</text>
+
+    <!-- Left-centre column -->
+    <text class="v7"  x="152" y="38"  font-size="26">🍇</text>
+    <text class="v8"  x="144" y="266" font-size="26">🥬</text>
+    <text class="v9"  x="165" y="178" font-size="22">🥒</text>
+
+    <!-- Top centre (above text zone) -->
+    <text class="v10" x="296" y="60"  font-size="28">🍍</text>
+    <text class="v11" x="414" y="54"  font-size="30">🌽</text>
+    <text class="v12" x="536" y="62"  font-size="26">🍊</text>
+
+    <!-- Bottom centre (below text zone) -->
+    <text class="v13" x="282" y="278" font-size="26">🥭</text>
+    <text class="v14" x="408" y="282" font-size="28">🍋</text>
+    <text class="v15" x="528" y="275" font-size="24">🫐</text>
+
+    <!-- Right-centre column -->
+    <text class="v16" x="644" y="42"  font-size="28">🍒</text>
+    <text class="v17" x="638" y="256" font-size="26">🥑</text>
+    <text class="v18" x="660" y="155" font-size="24">🍅</text>
+
+    <!-- Right column -->
+    <text class="v19" x="734" y="64"  font-size="28">🧄</text>
+    <text class="v20" x="738" y="228" font-size="26">🥔</text>
+    <text class="v21" x="720" y="148" font-size="22">🍑</text>
+
+    <!-- Far-right column -->
+    <text class="v22" x="804" y="100" font-size="26">🍇</text>
+    <text class="v4"  x="810" y="186" font-size="24">🥝</text>
+
+    <!-- Bonus scatter (corners) -->
+    <text class="v2"  x="30"  y="30"  font-size="22">🫐</text>
+    <text class="v8"  x="808" y="38"  font-size="22">🥦</text>
+    <text class="v11" x="14"  y="272" font-size="22">🌽</text>
+    <text class="v17" x="824" y="270" font-size="22">🍓</text>
+
+    <!-- ░░░░░░░░░░░░░░░░░░░ -->
+    <!-- ░░   MAIN TITLE   ░░ -->
+    <!-- ░░░░░░░░░░░░░░░░░░░ -->
+    <text
+      class="title"
+      x="430"
+      y="158"
+      text-anchor="middle"
+      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+      font-size="82"
+      font-weight="900"
+      letter-spacing="8"
+      fill="#ffffff"
+    >DAR1EN</text>
+
+    <!-- Subtitle -->
+    <text
+      class="sub"
+      x="430"
+      y="190"
+      text-anchor="middle"
+      font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+      font-size="13"
+      font-weight="400"
+      letter-spacing="2.8"
+      fill="#9999cc"
+    >TECH LEAD · ORTAGGI LTD · NEW COVENT GARDEN MARKET, LONDON</text>
+
+  </g>
+</svg>
