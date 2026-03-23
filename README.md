@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Market+nights.+Code+days.;8%2C000%2B+lines+of+TypeScript+across+66+source+files;Building+NCGM's+digital+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Market+nights.+Code+days.;Building+digital+tools+for+NCGM.;Practical+software+for+real+world+trade.)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/floating-veggies.svg" alt="floating veggies" width="100%" />
 
@@ -10,11 +10,11 @@
 
 ---
 
-I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software by day. I work at a wholesale fresh produce distributor and I've been tasked with modernising how we operate.
+I work nights on the market floor at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and build software in the daylight hours. I am helping modernise a wholesale produce business from the inside out, with tools that save time, sharpen communication, and make the work feel less chaotic.
 
----
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
-### What I'm building
+### What I am building
 
 <table>
 <tr>
@@ -22,40 +22,39 @@ I work nights on the market floor at [New Covent Garden Market](https://www.newc
 
 **Wholesale Instagram Studio**
 
-A purpose-built content creation platform for NCGM. 10 template types (produce spotlights, market stats, BTS overlays, company shoutouts, seasonal guides, food hacks, testimonials, people spotlights, highlight covers) — each with a dedicated editor, live preview, and high-res PNG export. Includes a carousel builder, caption generator with pillar-specific hashtag banks, and a content manager backed by Firebase.
+A practical content workspace built for people who actually run produce businesses, not marketing agencies. It turns rough ideas into polished posts fast: templates, live previews, carousels, and export-ready assets that can go out the same day.
 
-`React 19` `TypeScript 5.9` `Vite 8` `Tailwind 4` `Zustand` `Firebase`
+This is about consistency and confidence, not just prettier graphics.
 
 </td>
 <td width="50%" valign="top">
 
 **Ortaggi Digital Revamp**
 
-A full rebuild of Ortaggi's digital presence — website, brand identity system, publishing/press pack, launch content series, and comprehensive reference documentation covering content strategy, brand voice, NCGM positioning, and profile setup. Every customer-facing touchpoint, rebuilt from scratch.
+A full reset of Ortaggi's digital presence: website, brand language, launch content, profile systems, and reference docs. The goal is simple: when someone discovers the business online, it should feel as credible and high-quality as the operation on the floor.
 
-`TypeScript` `React` `Firebase`
+Every touchpoint is being rebuilt to feel deliberate.
 
 </td>
 </tr>
 </table>
 
-**The pipeline** — a three-layer content architecture: AI handles trade intelligence processing (seasonal data, price signals, chef demand patterns from Firebase Firestore), generates weekly content briefs with full captions and one-click Studio URLs, and pushes everything to a Notion Content Board. A VA executes from the briefs. The Studio renders and exports. The goal: 5 high-quality posts per week with minimal manual intervention.
+**The pipeline**
+AI helps process market signals, drafts content briefs, and routes execution into Notion. Human operators still make the calls. The result is a weekly rhythm that is faster, clearer, and much less manual.
 
----
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
-### Where this is headed
+### Where this is going
 
-The immediate next phase is codebase hardening — component decomposition, code splitting, Vitest coverage, and migrating hardcoded data to Firestore where 36 weeks of trade intelligence already lives.
+1. Turn current tools into dependable systems with better structure, testing, and cleaner data flow.
+2. Expand trade intelligence coverage across more sourcing regions and languages.
+3. Build a reusable playbook for the wider NCGM community so more traders can modernise without enterprise budgets.
 
-Beyond that: **international trade intelligence** (Spanish, Moroccan, Dutch, French, Portuguese, Belgian sourcing data flowing into Firestore), Notion agent integration for reactive automation, and evolving the studio into a fully programmatic rendering service — where the pipeline generates and exports content end-to-end.
-
-The long game is bigger than Ortaggi. I want to bring digital tooling to the wider NCGM community — helping other traders on site modernise the way they present themselves and reach customers. The tools I'm building are designed with that in mind.
-
----
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
 <div align="center">
 
-### Tech
+### Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -68,27 +67,20 @@ The long game is bigger than Ortaggi. I want to bring digital tooling to the wid
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
 ### Off the clock
 
-🚴 **On the bike** — Zwift addict. Road cycling when the British weather allows it.
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/off-clock-vibes.svg" alt="off the clock vibes" width="100%" />
 
-🎵 **Music**
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/music-now-playing.svg" alt="music now playing" width="100%" />
 
-![Morgan Wallen](https://img.shields.io/badge/Morgan%20Wallen-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Ella Langley](https://img.shields.io/badge/Ella%20Langley-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Chris Stapleton](https://img.shields.io/badge/Chris%20Stapleton-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Chris Young](https://img.shields.io/badge/Chris%20Young-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Bon Iver](https://img.shields.io/badge/Bon%20Iver-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Porter Robinson](https://img.shields.io/badge/Porter%20Robinson-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Deadmau5](https://img.shields.io/badge/Deadmau5-1DB954?style=flat-square&logo=spotify&logoColor=white)
+- On two wheels: road cycling and Zwift whenever London weather allows.
+- In the headphones: country first, with left turns into alt and EDM.
+- In the kitchen: cake, pastries, and sweet treats with no restraint.
+- In game sessions: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
 
-🎮 **Games**
-
-⚔️ Rome: Total War · 🐉 Skyrim · 🌆 Cyberpunk 2077 · 🚀 Rocket League
-
----
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
 <div align="center">
 
@@ -100,10 +92,15 @@ The long game is bigger than Ortaggi. I want to bring digital tooling to the wid
   <img alt="contribution snake" src="https://raw.githubusercontent.com/franko-c/franko-c/output/github-snake.svg" />
 </picture>
 
+<img src="https://github-readme-stats.vercel.app/api?username=franko-c&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9fd3ff&icon_color=ff7b72&text_color=c9d1d9" alt="GitHub stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=franko-c&theme=transparent&hide_border=true&ring=9fd3ff&fire=ff7b72&currStreakLabel=c9d1d9" alt="GitHub streak" width="49%" />
+
+<sub>Snake activity uses your public GitHub contribution graph. If it looks sparse, commits may be landing with a non-verified email or outside your public graph settings.</sub>
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=franko-c&style=flat-square&color=243b55&label=profile+views" />
 
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner" width="100%" />
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner footer" width="100%" />
 
 </div>

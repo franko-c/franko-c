@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="50%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @keyframes bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+    @keyframes pulse { 0%,100%{opacity:0.45} 50%{opacity:1} }
+    .icon { animation: bob 3s ease-in-out infinite; }
+    .i2 { animation-delay: .5s; }
+    .i3 { animation-delay: 1s; }
+    .i4 { animation-delay: 1.5s; }
+    .dot { animation: pulse 2.2s ease-in-out infinite; }
+  </style>
+
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <rect x="20" y="20" width="1160" height="240" rx="18" fill="#00000022" stroke="#ffffff20"/>
+
+  <text x="56" y="70" fill="#ffffff" font-size="28" font-weight="700">OFF THE CLOCK</text>
+  <rect x="56" y="84" width="220" height="4" rx="2" fill="url(#accent)"/>
+
+  <g transform="translate(56 126)">
+    <text class="icon" x="0" y="0" font-size="34">🚴</text>
+    <text x="50" y="-8" fill="#ffffff" font-size="20" font-weight="700">Cycling</text>
+    <text x="50" y="18" fill="#d1d5db" font-size="15">Road miles, Zwift sessions, and clear-head rides.</text>
+  </g>
+
+  <g transform="translate(56 198)">
+    <text class="icon i2" x="0" y="0" font-size="34">🎵</text>
+    <text x="50" y="-8" fill="#ffffff" font-size="20" font-weight="700">Music</text>
+    <text x="50" y="18" fill="#d1d5db" font-size="15">Country heart, alt/EDM detours, always loud enough.</text>
+  </g>
+
+  <g transform="translate(620 126)">
+    <text class="icon i3" x="0" y="0" font-size="34">🍰</text>
+    <text x="50" y="-8" fill="#ffffff" font-size="20" font-weight="700">Sweet Tooth</text>
+    <text x="50" y="18" fill="#d1d5db" font-size="15">Cake, pastries, and anything with ridiculous frosting.</text>
+  </g>
+
+  <g transform="translate(620 198)">
+    <text class="icon i4" x="0" y="0" font-size="34">🎮</text>
+    <text x="50" y="-8" fill="#ffffff" font-size="20" font-weight="700">Games</text>
+    <text x="50" y="18" fill="#d1d5db" font-size="15">Rome, Skyrim, Cyberpunk, Rocket League.</text>
+  </g>
+
+  <circle class="dot" cx="1115" cy="58" r="6" fill="#22d3ee"/>
+  <circle class="dot" cx="1137" cy="58" r="6" fill="#f97316" style="animation-delay:.2s"/>
+  <circle class="dot" cx="1159" cy="58" r="6" fill="#ec4899" style="animation-delay:.4s"/>
+</svg>
