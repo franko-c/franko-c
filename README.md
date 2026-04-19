@@ -10,45 +10,45 @@
 
 ---
 
-I work nights at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) and write code in the daylight hours. Most of what I build is for the produce world I already live in: tools that save time, cut the faff, and make the business look as good online as it does in real life.
+I work at [Ortaggi](https://ortaggi.co.uk), a wholesale fruit and veg business at [New Covent Garden Market](https://www.newcoventgardenmarket.com/). Most nights I'm on the market floor picking produce. Most days I'm at a keyboard writing the software that runs around it. The tools exist because we needed them, not because they were product ideas.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
-### What I'm building
+### What I'm doing
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Wholesale Instagram Studio**
+**Running the operation**
 
-I am building a content tool for produce businesses like ours. It helps turn rough ideas into decent posts quickly, without needing a full marketing circus every time somebody wants to say something online.
+Admin at Ortaggi: overnight market runs at NCGM, customer orders, dispatch, pricing, and the thousand small decisions that keep a produce business upright.
 
-The point is not to be flashy. The point is to make good work easier to ship.
+Building out a cargo-bike delivery route into central London offices — hand-picked produce overnight, delivered personally before desks fill up.
 
 </td>
 <td width="50%" valign="top">
 
-**Ortaggi Digital Revamp**
+**The tools I've built around it**
 
-I am rebuilding Ortaggi's digital presence from the ground up: website, brand voice, launch content, profile setup, and the bits of documentation that stop everything turning into guesswork.
+An internal lead-gen and CRM dashboard: Places discovery, website enrichment, Gemini-powered pre-call briefings, visit planning, and a personalised outreach engine.
 
-If somebody looks us up online, I want it to feel sharp, trustworthy, and unmistakably us.
+A cleaner digital presence for Ortaggi — website, brand voice, and the bits of documentation that stop everything turning into guesswork.
 
 </td>
 </tr>
 </table>
 
 **The pipeline**
-AI does the heavy lifting where it is useful: pulling signals together, drafting briefs, and teeing work up in Notion. Humans still do the judging. It is less "replace people" and more "stop doing the same boring admin fifteen times."
+AI does the boring parts: pulling signals together, drafting briefs, teeing work up in Notion. Humans still judge. The point is to stop doing the same admin fifteen times, not to build a content studio.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-2.svg" alt="section divider" width="100%" />
 
 ### Where this is headed
 
-1. Make the current tools sturdier, calmer, and less likely to wobble when they get bigger.
-2. Pull in better trade intelligence from more regions, in more languages, without turning the whole thing into spaghetti.
-3. Build something useful enough that other traders at NCGM could nick the playbook and use it too.
+1. Make the tools sturdier in the field — this is software I use out visiting customers, not at a desk.
+2. Deepen the pre-call and pre-visit intelligence so every conversation on the road starts informed.
+3. Get Ortaggi's digital front door as sharp as the produce going out the back of it.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
 
