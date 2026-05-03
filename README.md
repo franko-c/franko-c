@@ -10,16 +10,16 @@
 
 ---
 
-I'm Fran. I work at [Ortaggi](https://ortaggi.co.uk) — wholesale fruit and veg out of [New Covent Garden Market](https://www.newcoventgardenmarket.com/) in London, with a cargo-bike round into central London offices in the morning.
+I'm Fran. I work at [Ortaggi](https://ortaggi.co.uk) — wholesale fruit and veg out of [New Covent Garden Market](https://www.newcoventgardenmarket.com/) in London.
 
-Most of what I build is software for that round. The rest is hobby projects that scratch a different itch.
+Most of what I build is software for the business. The rest are personal projects.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
 ### Ortaggi
 
-- **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)** — the CRM that runs the round. Scans Google Places for restaurants, offices and care homes, scrapes sites for cuisine signals and FSA ratings, generates pre-call briefs with Gemini, and clusters leads on a map for a day of visits. Templated email outreach with per-cuisine product lists.
-- **[ortaggi-instagram-studio](https://github.com/franko-c/ortaggi-instagram-studio)** — desktop tool that exports Instagram graphics at correct dimensions, with caption templates and a weekly planner.
+- **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)** — internal CRM and lead pipeline. Scans Google Places for restaurants, offices and care homes, scrapes sites for cuisine signals and FSA ratings, generates pre-call briefs with Gemini, and clusters leads on a map for visit planning. Templated email outreach with per-cuisine product lists.
+- **[ortaggi-instagram-studio](https://github.com/franko-c/ortaggi-instagram-studio)** — desktop tool that exports Instagram graphics at the right sizes, with caption templates and a weekly planner.
 - **[wholesale-landing](https://github.com/franko-c/wholesale-landing)** — single-page Next.js landing site for ortaggi.co.uk. All copy lives in a JSON config so it can be updated without touching layout.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-2.svg" alt="section divider" width="100%" />
@@ -27,7 +27,7 @@ Most of what I build is software for that round. The rest is hobby projects that
 ### Other things
 
 - **orbital-discord** — modular Discord ops platform. TypeScript monorepo: discord.js 14 bot, Next.js 15 admin web, background worker for scheduled jobs.
-- **second-brain** — single-user, mobile-first PWA. Capture, tasks, habits, expenses, calendar. Next.js 16 on Cloudflare D1 + Workers, Claude classifies inbound messages, CalDAV syncs to Apple Calendar.
+- **second-brain** — single-user, mobile-first PWA. Thought capture, tasks, habits, expense logging, calendar. Next.js 16 on Cloudflare D1 + Workers, Claude classifies inbound messages, CalDAV syncs to Apple Calendar.
 - **dar1en-zwift-server-helper** — Discord bot for managing Zwift community polls and race scheduling. Race and TTT slot templates, multi-timezone, button voting, CSV exports.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
@@ -59,7 +59,7 @@ Most of what I build is software for that round. The rest is hobby projects that
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/music-now-playing.svg" alt="music now playing" width="100%" />
 
-Bikes (road and Zwift). Country music, with a soft spot for alt and EDM. Baking, mostly the sweet end. Old games I keep coming back to: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
+Bikes (road and Zwift). Country music, plus alt and EDM. Baking, mostly the sweet end. Games: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
 
