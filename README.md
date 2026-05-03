@@ -10,7 +10,7 @@
 
 ---
 
-Fran. I work at [Ortaggi](https://ortaggi.co.uk) — wholesale fruit and veg out of [New Covent Garden Market](https://www.newcoventgardenmarket.com/) in London, with a cargo-bike round into central London offices in the morning.
+I'm Fran. I work at [Ortaggi](https://ortaggi.co.uk) — wholesale fruit and veg out of [New Covent Garden Market](https://www.newcoventgardenmarket.com/) in London, with a cargo-bike round into central London offices in the morning.
 
 Most of what I build is software for that round. The rest is hobby projects that scratch a different itch.
 
