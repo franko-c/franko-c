@@ -10,31 +10,25 @@
 
 ---
 
-I'm Fran. I work at [Ortaggi](https://ortaggi.co.uk), a wholesale fruit and veg business at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) in London. I run operations and write the software around them.
+Fran. I work at [Ortaggi](https://ortaggi.co.uk) — wholesale fruit and veg out of [New Covent Garden Market](https://www.newcoventgardenmarket.com/) in London, with a cargo-bike round into central London offices in the morning.
+
+Most of what I build is software for that round. The rest is hobby projects that scratch a different itch.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider.svg" alt="section divider" width="100%" />
 
-### What I do at Ortaggi
+### Ortaggi
 
-- Overnight picking and dispatch at NCGM.
-- Customer outreach: cold email, calls, in-person visits to restaurants and offices.
-- Supplier negotiation at market.
-- Order admin, pricing, invoicing.
-- Building out a cargo-bike delivery route into central London offices.
-
-### Tools I've built for it
-
-- **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)** — internal CRM + lead pipeline. Scans Google Places for restaurants, offices, and care homes; enriches with FSA ratings and cuisine signals scraped from websites; generates pre-call briefings with Gemini; map-first dashboard for clustering visits geographically; templated email outreach with per-cuisine product lists.
-- **[ortaggi-instagram-studio](https://github.com/franko-c/ortaggi-instagram-studio)** — local tool that generates Instagram graphics at exact export dimensions, with caption templates and a weekly content planner.
-- **[wholesale-landing](https://github.com/franko-c/wholesale-landing)** — single-page Next.js landing site for Ortaggi. All copy driven from a JSON config so it can be updated without touching layout code.
+- **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)** — the CRM that runs the round. Scans Google Places for restaurants, offices and care homes, scrapes sites for cuisine signals and FSA ratings, generates pre-call briefs with Gemini, and clusters leads on a map for a day of visits. Templated email outreach with per-cuisine product lists.
+- **[ortaggi-instagram-studio](https://github.com/franko-c/ortaggi-instagram-studio)** — desktop tool that exports Instagram graphics at correct dimensions, with caption templates and a weekly planner.
+- **[wholesale-landing](https://github.com/franko-c/wholesale-landing)** — single-page Next.js landing site for ortaggi.co.uk. All copy lives in a JSON config so it can be updated without touching layout.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-2.svg" alt="section divider" width="100%" />
 
-### Other projects
+### Other things
 
-- **orbital-discord** — modular Discord operations platform. TypeScript monorepo: Discord.js 14 bot, Next.js 15 admin web, background worker for scheduled jobs.
-- **second-brain** — single-user mobile-first PWA: thought capture, tasks, habits, expense logging, calendar. Next.js 16 + Cloudflare D1 + Workers, Claude for message classification, CalDAV sync to Apple Calendar.
-- **dar1en-zwift-server-helper** — Discord bot for managing Zwift community polls and race scheduling. Templates for race/TTT slots, multi-timezone support, button-based voting, CSV exports.
+- **orbital-discord** — modular Discord ops platform. TypeScript monorepo: discord.js 14 bot, Next.js 15 admin web, background worker for scheduled jobs.
+- **second-brain** — single-user, mobile-first PWA. Capture, tasks, habits, expenses, calendar. Next.js 16 on Cloudflare D1 + Workers, Claude classifies inbound messages, CalDAV syncs to Apple Calendar.
+- **dar1en-zwift-server-helper** — Discord bot for managing Zwift community polls and race scheduling. Race and TTT slot templates, multi-timezone, button voting, CSV exports.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
 
@@ -65,16 +59,11 @@ I'm Fran. I work at [Ortaggi](https://ortaggi.co.uk), a wholesale fruit and veg 
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/music-now-playing.svg" alt="music now playing" width="100%" />
 
-- Cycling: road and Zwift.
-- Music: country, with some alt and EDM.
-- Baking, mostly sweet stuff.
-- Games: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
+Bikes (road and Zwift). Country music, with a soft spot for alt and EDM. Baking, mostly the sweet end. Old games I keep coming back to: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
 
 <img src="https://raw.githubusercontent.com/franko-c/franko-c/main/profile-divider-3.svg" alt="section divider" width="100%" />
 
 <div align="center">
-
-### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franko-c/franko-c/output/github-snake-dark.svg" />
@@ -84,8 +73,6 @@ I'm Fran. I work at [Ortaggi](https://ortaggi.co.uk), a wholesale fruit and veg 
 
 <img src="https://github-readme-stats.vercel.app/api?username=franko-c&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9fd3ff&icon_color=ff7b72&text_color=c9d1d9" alt="GitHub stats" width="49%" />
 <img src="https://streak-stats.demolab.com?user=franko-c&theme=transparent&hide_border=true&ring=9fd3ff&fire=ff7b72&currStreakLabel=c9d1d9" alt="GitHub streak" width="49%" />
-
-<sub>Most of my repos are private, so the public graph understates activity.</sub>
 
 ---
 
