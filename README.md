@@ -54,4 +54,6 @@ Bikes — road and Zwift, mostly Zwift these days because market hours and dayli
 
 <img src="https://github-readme-stats.vercel.app/api?username=franko-c&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9fd3ff&icon_color=ff7b72&text_color=c9d1d9" alt="GitHub stats" width="100%" />
 
+<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner footer" width="100%" />
+
 </div>
