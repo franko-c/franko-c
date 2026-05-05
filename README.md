@@ -40,7 +40,7 @@ TypeScript and Node, Next.js + React, Tailwind for UI, Hono for small APIs. Fire
 
 ### Off the clock
 
-Bikes — road and Zwift, mostly Zwift these days because market hours and daylight don't overlap much. Heavy rotation: ZAYN, Morgan Wallen, Ryan Hurd, Justin Bieber, Bad Bunny, Hunter Hayes, Kacey Musgraves, Megan Moroney, Lainey Wilson, Luke Combs, Chris Stapleton, Porter Robinson. Baking, mostly the sweet end. Games: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
+Bikes — road and Zwift, mostly Zwift these days because market hours and daylight don't overlap much. Heavy rotation: ZAYN, Morgan Wallen, Ryan Hurd, Justin Bieber, Bad Bunny, Hunter Hayes, Kacey Musgraves, Megan Moroney, Lainey Wilson, Luke Combs, Chris Stapleton, Porter Robinson. Games: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
 
 ---
 
