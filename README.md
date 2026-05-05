@@ -52,7 +52,4 @@ Bikes — road and Zwift, mostly Zwift these days because market hours and dayli
   <img alt="contribution snake" src="https://raw.githubusercontent.com/franko-c/franko-c/output/github-snake.svg" />
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=franko-c&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9fd3ff&icon_color=ff7b72&text_color=c9d1d9" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franko-c&layout=compact&hide_border=true&bg_color=00000000&title_color=9fd3ff&text_color=c9d1d9&langs_count=8" alt="Top languages" width="49%" />
-
 </div>
