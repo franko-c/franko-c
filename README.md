@@ -48,4 +48,6 @@ Bikes — road and Zwift, mostly Zwift these days because market hours and dayli
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=franko-c&bg_color=0a1321&color=e6f1ff&line=38bdf8&point=22d3ee&area=true&area_color=38bdf8&title_color=a5f3fc&custom_title=Commit%20activity%20%E2%80%94%20last%2090%20days&hide_border=true&radius=16&days=90&height=320" alt="Commit activity over the last 90 days" width="100%" />
 
+<img src="https://streak-stats.demolab.com?user=franko-c&card_width=1200&hide_border=true&background=0a1321&stroke=0a1321&ring=22d3ee&fire=38bdf8&currStreakLabel=a5f3fc&dates=93c5fd&sideLabels=93c5fd&currStreakNum=e6f1ff&sideNums=e6f1ff&excludeDaysLabel=64748b&date_format=j%20M%5B%20Y%5D" alt="Total contributions, current streak, longest streak" width="100%" />
+
 </div>
