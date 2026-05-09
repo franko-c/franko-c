@@ -46,14 +46,6 @@ Bikes — road and Zwift, mostly Zwift these days because market hours and dayli
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franko-c/franko-c/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franko-c/franko-c/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/franko-c/franko-c/output/github-snake.svg" />
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=franko-c&theme=github-compact&hide_border=true&bg_color=00000000&color=9fd3ff&line=ff7b72&point=c9d1d9&area=true&hide_title=true" alt="Contribution activity" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=franko-c&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Profile trophies" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=franko-c&bg_color=0a1321&color=e6f1ff&line=38bdf8&point=22d3ee&area=true&area_color=38bdf8&title_color=a5f3fc&custom_title=Commit%20activity%20%E2%80%94%20last%2090%20days&hide_border=true&radius=16&days=90&height=320" alt="Commit activity over the last 90 days" width="100%" />
 
 </div>
