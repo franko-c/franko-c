@@ -10,7 +10,13 @@
 
 I'm Fran. I trade fruit and veg at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) for [Ortaggi](https://ortaggi.co.uk), and I write most of the software around the business — CRM, briefings, the landing site, the bits in between.
 
-Most of what's listed here is for that. The rest are personal projects, plus some older repos from when I was figuring out which way HTML opened.
+If you've landed here from a comment I left on one of your issues — thanks for clicking through. Apologies in advance if I got something wrong; happy to be corrected in the thread.
+
+### Around the web
+
+Most weeks I leave a comment on an issue or two in repos I use or stumble across — usually a file:line trace of something that broke, sometimes a fix, occasionally just "looks like X also breaks here". Mostly TypeScript / React / Next.js / Python territory. I try to read the source before writing, and I try to admit what I haven't checked.
+
+Lately I'm curious about accessibility-focused projects — caption tooling, screen-reader UX, color-contrast and focus-management primitives. Underrated corner of the issue tracker.
 
 ### Ortaggi
 
