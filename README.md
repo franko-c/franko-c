@@ -12,16 +12,19 @@ I'm Fran. I trade fruit and veg at [New Covent Garden Market](https://www.newcov
 
 If you've landed here from a comment I left on one of your issues — thanks for clicking through. Apologies in advance if I got something wrong; happy to be corrected in the thread.
 
+### Right now
+
+**[Hearth](https://emberhold.app)** — a calm, async study-RPG, and where most of my time goes. Focusing is the game; breaks count. Your sessions move a world other people share. Next.js 15 / React 19 / Supabase (Postgres + Realtime + Auth) on Vercel, server-authoritative so focus can't be faked. Live at [emberhold.app](https://emberhold.app).
+
 ### Around the web
 
 Most weeks I leave a comment on an issue or two in repos I use or stumble across — usually a file:line trace of something that broke, sometimes a fix, occasionally just "looks like X also breaks here". Mostly TypeScript / React / Next.js / Python territory. I try to read the source before writing, and I try to admit what I haven't checked.
 
-Lately I'm curious about accessibility-focused projects — caption tooling, screen-reader UX, color-contrast and focus-management primitives. Underrated corner of the issue tracker.
+Building Hearth has me deep in reduced-motion and focus-management detail, so lately I gravitate to accessibility-focused projects — caption tooling, screen-reader UX, color-contrast primitives. Underrated corner of the issue tracker.
 
 ### Ortaggi
 
 - **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)** — internal CRM and lead pipeline. Scans Google Places for restaurants, offices and care homes, scrapes sites for cuisine signals and FSA ratings, generates pre-call briefs with Gemini, and clusters leads on a map for visit planning. Templated email outreach with per-cuisine product lists.
-- **[ortaggi-instagram-studio](https://github.com/franko-c/ortaggi-instagram-studio)** — desktop tool that exports Instagram graphics at the right sizes, with caption templates and a weekly planner.
 - **[wholesale-landing](https://github.com/franko-c/wholesale-landing)** — single-page Next.js site for ortaggi.co.uk. All copy lives in a JSON config so it can be updated without touching layout.
 
 ### Personal
@@ -29,7 +32,6 @@ Lately I'm curious about accessibility-focused projects — caption tooling, scr
 - **[orbital-discord](https://github.com/franko-c/orbital-discord)** — Discord operations platform. TypeScript monorepo: discord.js 14 bot, Next.js 15 admin web, background worker for scheduled jobs.
 - **[second-brain](https://github.com/franko-c/second-brain)** — single-user, mobile-first PWA. Thought capture, tasks, habits, expense logging, calendar. Next.js 16 on Cloudflare D1 + Workers, Claude classifies inbound messages, CalDAV syncs to Apple Calendar.
 - **[training_insights](https://github.com/franko-c/training_insights)** — Zwift racing dashboard. Coggan power profiling, critical-power modelling, W/kg category prediction. Built so I could stop staring at a wall of numbers on ZwiftPower and actually see the trends.
-- **[dar1en-zwift-server-helper](https://github.com/franko-c/dar1en-zwift-server-helper)** — Discord bot for the Zwift community I race in. Race and TTT slot templates, multi-timezone scheduling, button voting, CSV exports.
 - **[dev-bootstrap](https://github.com/franko-c/dev-bootstrap)** — single-command CLI for spinning up new dev projects with secrets and Claude Code scaffolding already wired. Designed so any agent session opening a fresh project knows what's connected, what isn't, and which command fills each gap.
 
 ### Earlier
@@ -42,7 +44,7 @@ Before any of the above existed I was deep in [The Odin Project](https://www.the
 
 ### Stack I reach for
 
-TypeScript and Node, Next.js + React, Tailwind for UI, Hono for small APIs. Firebase / Firestore at Ortaggi; Cloudflare Workers + D1 for personal stuff. Gemini for inference where Claude isn't already doing the job. Notion as the operating system for half my life.
+TypeScript and Node, Next.js + React, Tailwind for UI, Hono for small APIs. Firebase / Firestore at Ortaggi; Supabase and Cloudflare Workers + D1 for personal stuff. Gemini for inference where Claude isn't already doing the job. Notion as the operating system for half my life.
 
 ### Off the clock
 
