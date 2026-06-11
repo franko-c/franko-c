@@ -14,13 +14,13 @@ If you've landed here from a comment I left on one of your issues — thanks for
 
 ### Right now
 
-**[Hearth](https://emberhold.app)** — a calm, async study-RPG, and where most of my time goes. Focusing is the game; breaks count. Your sessions move a world other people share. Next.js 15 / React 19 / Supabase (Postgres + Realtime + Auth) on Vercel, server-authoritative so focus can't be faked. Live at [emberhold.app](https://emberhold.app).
+**[Emberhold](https://emberhold.app)** — a calm, async study-RPG, and where most of my time goes. Focusing is the game; breaks count. Your sessions move a world other people share. Next.js 15 / React 19 / Supabase (Postgres + Realtime + Auth) on Vercel, server-authoritative so focus can't be faked. Live at [emberhold.app](https://emberhold.app).
 
 ### Around the web
 
 Most weeks I leave a comment on an issue or two in repos I use or stumble across — usually a file:line trace of something that broke, sometimes a fix, occasionally just "looks like X also breaks here". Mostly TypeScript / React / Next.js / Python territory. I try to read the source before writing, and I try to admit what I haven't checked.
 
-Building Hearth has me deep in reduced-motion and focus-management detail, so lately I gravitate to accessibility-focused projects — caption tooling, screen-reader UX, color-contrast primitives. Underrated corner of the issue tracker.
+Building Emberhold has me deep in reduced-motion and focus-management detail, so lately I gravitate to accessibility-focused projects — caption tooling, screen-reader UX, color-contrast primitives. Underrated corner of the issue tracker.
 
 ### Ortaggi
 
