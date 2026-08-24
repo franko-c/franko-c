@@ -1,61 +1,28 @@
-<div align="center">
+I trade fruit and veg at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) for [Ortaggi](https://ortaggi.co.uk), and I write the software the business runs on.
 
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/header-banner.svg" alt="DAR1EN banner" width="100%" />
-
-<img src="https://raw.githubusercontent.com/franko-c/franko-c/main/floating-veggies.svg" alt="floating veggies" width="100%" />
-
-</div>
-
----
-
-I'm Fran. I trade fruit and veg at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) for [Ortaggi](https://ortaggi.co.uk), and I write most of the software around the business — CRM, briefings, the landing site, the bits in between.
-
-If you've landed here from a comment I left on one of your issues — thanks for clicking through. Apologies in advance if I got something wrong; happy to be corrected in the thread.
-
-### Right now
-
-**[Emberhold](https://emberhold.app)** — a calm, async study-RPG, and where most of my time goes. Focusing is the game; breaks count. Your sessions move a world other people share. Next.js 15 / React 19 / Supabase (Postgres + Realtime + Auth) on Vercel, server-authoritative so focus can't be faked. Live at [emberhold.app](https://emberhold.app).
-
-### Around the web
-
-Most weeks I leave a comment on an issue or two in repos I use or stumble across — usually a file:line trace of something that broke, sometimes a fix, occasionally just "looks like X also breaks here". Mostly TypeScript / React / Next.js / Python territory. I try to read the source before writing, and I try to admit what I haven't checked.
-
-Building Emberhold has me deep in reduced-motion and focus-management detail, so lately I gravitate to accessibility-focused projects — caption tooling, screen-reader UX, color-contrast primitives. Underrated corner of the issue tracker.
+Mostly that means sales automation, internal tools, and front ends that load fast and stay out of the way.
 
 ### Ortaggi
 
-- **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)** — internal CRM and lead pipeline. Scans Google Places for restaurants, offices and care homes, scrapes sites for cuisine signals and FSA ratings, generates pre-call briefs with Gemini, and clusters leads on a map for visit planning. Templated email outreach with per-cuisine product lists.
-- **[wholesale-landing](https://github.com/franko-c/wholesale-landing)** — single-page Next.js site for ortaggi.co.uk. All copy lives in a JSON config so it can be updated without touching layout.
+- **[ortaggi-lead-gen](https://github.com/franko-c/ortaggi-lead-gen)**: CRM and lead pipeline. Finds buyers by postcode, scores them against public records, maps them for visit planning.
+- **[wholesale-landing](https://github.com/franko-c/wholesale-landing)**: the ortaggi.co.uk site. All copy lives in a JSON config.
 
-### Personal
+### Other projects
 
-- **[orbital-discord](https://github.com/franko-c/orbital-discord)** — Discord operations platform. TypeScript monorepo: discord.js 14 bot, Next.js 15 admin web, background worker for scheduled jobs.
-- **[second-brain](https://github.com/franko-c/second-brain)** — single-user, mobile-first PWA. Thought capture, tasks, habits, expense logging, calendar. Next.js 16 on Cloudflare D1 + Workers, Claude classifies inbound messages, CalDAV syncs to Apple Calendar.
-- **[training_insights](https://github.com/franko-c/training_insights)** — Zwift racing dashboard. Coggan power profiling, critical-power modelling, W/kg category prediction. Built so I could stop staring at a wall of numbers on ZwiftPower and actually see the trends.
-- **[dev-bootstrap](https://github.com/franko-c/dev-bootstrap)** — single-command CLI for spinning up new dev projects with secrets and Claude Code scaffolding already wired. Designed so any agent session opening a fresh project knows what's connected, what isn't, and which command fills each gap.
+- **[Emberhold](https://emberhold.app)**: an async study RPG. Focusing is the game, and your sessions move a shared world. Next.js, React, Supabase.
+- **[orbital-discord](https://github.com/franko-c/orbital-discord)**: Discord operations platform. TypeScript monorepo: bot, admin web, background worker.
+- **[second-brain](https://github.com/franko-c/second-brain)**: single-user PWA for capture, tasks, habits and expenses. Cloudflare Workers and D1, CalDAV out to Apple Calendar.
+- **[training_insights](https://github.com/franko-c/training_insights)**: Zwift racing dashboard. Power profiling and category prediction, so I see the trend instead of a wall of numbers.
+- **[dev-bootstrap](https://github.com/franko-c/dev-bootstrap)**: one command to start a project with secrets and scaffolding wired up.
+
+### Stack
+
+TypeScript and Node, Next.js and React, Tailwind. Postgres, Firestore, Cloudflare Workers and D1.
 
 ### Earlier
 
-Before any of the above existed I was deep in [The Odin Project](https://www.theodinproject.com/) and [Scrimba](https://scrimba.com/), trying to make icons stop overlapping.
-
-- **keybgram** — Scrimba challenge: mock social feed for mechanical keyboards. Exists because I wanted an excuse to look at backlit photos of keyboards for an unreasonable number of hours.
-- **leads_tracker** — the ancestor of ortaggi-lead-gen. Mobile-first, scrappy, built before I'd heard of half the things in the current stack. The whole CRM idea started here.
-- **landing-page**, **top_lp**, **foundations_repo** — TOP coursework. Kept around as a reminder that everything compounds.
-
-### Stack I reach for
-
-TypeScript and Node, Next.js + React, Tailwind for UI, Hono for small APIs. Firebase / Firestore at Ortaggi; Supabase and Cloudflare Workers + D1 for personal stuff. Gemini for inference where Claude isn't already doing the job. Notion as the operating system for half my life.
+[The Odin Project](https://www.theodinproject.com/) and [Scrimba](https://scrimba.com/), most of it spent trying to stop icons overlapping. **leads_tracker** is where the CRM above started. The rest is coursework I kept.
 
 ### Off the clock
 
-Bikes — road and Zwift, mostly Zwift these days because market hours and daylight don't overlap much. Heavy rotation: ZAYN, Morgan Wallen, Ryan Hurd, Justin Bieber, Bad Bunny, Hunter Hayes, Kacey Musgraves, Megan Moroney, Lainey Wilson, Luke Combs, Chris Stapleton, Porter Robinson. Games: Rome: Total War, Skyrim, Cyberpunk 2077, Rocket League.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=franko-c&bg_color=0f1726&color=d8e3f0&line=a8c5e8&point=e8b8a8&area=true&area_color=a8c5e8&title_color=c8b8e0&custom_title=Commit%20activity%20%E2%80%94%20last%2060%20days&hide_border=true&radius=16&days=60&height=320" alt="Commit activity over the last 60 days" width="100%" />
-
-<img src="https://streak-stats.demolab.com?user=franko-c&card_width=1200&hide_border=true&background=0f1726&stroke=0f1726&ring=a8c5e8&fire=e8b8a8&currStreakLabel=c8b8e0&dates=8fa3b8&sideLabels=c8b8e0&currStreakNum=d8e3f0&sideNums=d8e3f0&excludeDaysLabel=5e6b7a&date_format=j%20M%5B%20Y%5D" alt="Total contributions, current streak, longest streak" width="100%" />
-
-</div>
+Bikes, mostly Zwift, because market hours and daylight do not overlap much.
