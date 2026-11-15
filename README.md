@@ -1,25 +1,26 @@
-I trade fruit and veg at [New Covent Garden Market](https://www.newcoventgardenmarket.com/) for [Ortaggi](https://ortaggi.co.uk), and I write the software the business runs on.
+I'm the buyer at [Ortaggi](https://ortaggi.co.uk), a family-run fruit, vegetable and provisions wholesaler at [New Covent Garden Market](https://www.newcoventgardenmarket.com/). Nights, I walk the stands choosing produce for London kitchens. Days, I build the systems the business runs on.
 
-Mostly sales automation, internal tools, and front ends that stay out of the way.
+### ortaggi.co.uk
 
-### Running in production
+The website is written and maintained mostly by software, with a person signing off on the parts that need one.
 
-- **[ortaggi.co.uk](https://ortaggi.co.uk)**: the wholesale site. Every line of copy lives in a JSON config, so it updates without anyone touching layout.
-- **[warmround.com](https://warmround.com)**: a studio front for the tooling below, generated from one typed config file.
-- **[emberhold.app](https://emberhold.app)**: an async study RPG. Focusing is the game, and your sessions move a world other people share.
+- **A growth agent that ships its own pages.** On a timer it picks a search gap, writes the landing page, blog post or market report for it, and opens a branch. Nothing merges unless a gate of roughly 4,800 unit tests plus accessibility, SEO and device checks passes. A failed gate leaves a draft for review.
+- **Measurement that picks the next job.** Search Console, first-party page views and daily rank checks feed a scorer that rates every shipped change 28 days later, and the planner reorders its queue on what moved. Google's indexed count went from 16 pages to 63 in five weeks.
+- **Guards for its own failure modes.** Separate gates for doorway pages, near-duplicate posts, invented claims about the business and leaked prices. Each was added after something shipped wrong once.
+- **One house style.** The design is our market stationery turned into a site: cream paper, a serif, brass rules, every picture an etching that develops into a photograph, in a light and a dark version. Copy, theme and section order live in one typed config.
 
-### The rest
+### The Market Note
 
-A sales pipeline, for a business too small to staff a sales desk. It finds buyers across a set of postcodes, scores them against food hygiene and company records, clusters them on a map for visit planning, and sorts every reply into an outcome.
+A weekly letter from the market floor for chefs: what is in season, what is scarce, what is about to turn. Subscriber prices sit in a separate layer that no public page can render. Double opt-in, one-click unsubscribe, out every Monday morning.
 
-Then a Discord operations platform, a capture-and-tasks PWA on Cloudflare Workers, a one-command project bootstrap, and a single-file nutrition tracker for night shifts.
+### Behind the counter
 
-Most of it is private, since it runs a live business. **[training_insights](https://github.com/franko-c/training_insights)** is not: a Zwift racing dashboard doing power profiling and category prediction, built so I could see the trend instead of a wall of numbers.
+- **Sales pipeline.** Finds trade kitchens across a set of postcodes, scores them against food hygiene and company records, clusters them on a map for visit planning, and sorts every reply into an outcome.
+- **People and dispatch.** HR, leave and delivery dispatch for the team, on Frappe and ERPNext with a React front end.
+- **An always-on box.** The scheduled jobs run on one machine that never sleeps, with a persistent session per project that I can pick up from a phone on the market floor.
 
 ### Stack
 
-TypeScript and Node, Next.js and React, Tailwind. Postgres, Firestore, Cloudflare Workers and D1.
+TypeScript, Node and Next.js, Tailwind, Vitest and Playwright. Netlify, Cloudflare Workers and D1, Postgres, Frappe. Bash for whatever runs on a timer.
 
-### Off the clock
-
-Bikes, mostly Zwift, because market hours and daylight do not overlap much.
+Most of this is private because it runs a live business. The one public repo is **[training_insights](https://github.com/franko-c/training_insights)**, a Zwift racing dashboard: bikes are what I do when the market is shut.
