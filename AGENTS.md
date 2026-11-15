@@ -26,7 +26,7 @@ python3 check-voice.py README.md     # must be 0
 
 **Twenty-one of twenty-three repos are private.** A repo link in this file 404s
 for everyone who is not the owner, so the README points at what is running
-instead: ortaggi.co.uk, warmround.com, emberhold.app. `training_insights` is the
+instead: ortaggi.co.uk and the market site. `training_insights` is the
 only public repo and the only repo link.
 
 Before pushing, check every link as a logged-out visitor:
@@ -47,7 +47,17 @@ Remaining impeccable findings on this README are GitHub's own 846px column at
 14px and its system font stack. Neither is addressable from a README. Do not
 rewrite copy chasing them.
 
-## No LLM mentions
+## Language models: say so, plainly
 
-No Claude, Gemini, LLM, inference, model, or "AI-powered". The repos get
-described by what they do.
+Owner, 2026-11-15: be open that the work is built with large language models, Claude in
+particular, and that the growth agent is Claude on a timer behind gates he wrote. This replaces the
+earlier rule against mentioning them. Name the model and what it does; no "AI-powered" or other
+brochure phrasing, which the voice rules above already forbid.
+
+## Numbers
+
+Every figure in the table is real and dated, with its source and window in the line under it:
+Search Console (`agents/state/gsc-series.json` in wholesale-landing), the index counts
+(`gsc-index-history.jsonl`), and agent merges from `agents/state/ledger.jsonl` (playbook not
+"manual", gate_result "MERGED"). Compare like windows (28 days against the 28 before). When you
+refresh one, refresh the date line with it; a stale number reads as a false one.
