@@ -58,6 +58,8 @@ brochure phrasing, which the voice rules above already forbid.
 Every figure in the table is real and dated, with its source and window in the line under it:
 Search Console (`agents/state/gsc-series.json` in wholesale-landing), the index counts
 (`gsc-index-history.jsonl`), and agent merges from `agents/state/ledger.jsonl` (playbook not
-"manual", gate_result "MERGED"). Compare like windows: whole calendar months, April 2026 (the first full month Search Console holds)
+"manual", gate_result "MERGED"), and the answer-engine rates from `ai-presence-history.jsonl`
+(the latest run's `highEnd` and `mentionRate`; quote the question count beside any rate).
+Report every channel the agent measures, not Google alone (owner, 2026-11-15). Compare like windows: whole calendar months, April 2026 (the first full month Search Console holds)
 against the last complete one, with the current month as a daily rate. When you
 refresh one, refresh the date line with it; a stale number reads as a false one.

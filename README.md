@@ -13,6 +13,8 @@ I build almost all of it with large language models, Claude in particular, and s
 
 November is running at 484 impressions a day, more than double October's 202. Search Console monthly totals, the first full month on record against the last complete one; index counts 7 October to 14 November. The agent's 72 include 25 blog posts, 4 market reports and 16 weekly Market Notes.
 
+Search engines are half of it. Every week the agent asks ChatGPT and Perplexity the questions a chef would ask when looking for a supplier, and records who they name. Asked which suppliers serve London's most exacting kitchens, ChatGPT named Ortaggi in 57% of its answers and Perplexity in 53% (27 questions each, 15 November 2026). Across all 108 supplier questions it was one answer in four.
+
 ### ortaggi.co.uk
 
 - **A growth agent that ships its own pages.** On a schedule it picks a search gap, writes the landing page, blog post or market report for it, and opens a branch. A gate of roughly 4,800 unit tests plus accessibility, SEO and device checks decides whether it merges. A failed gate leaves a draft for review.
