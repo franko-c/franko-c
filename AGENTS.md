@@ -58,5 +58,6 @@ brochure phrasing, which the voice rules above already forbid.
 Every figure in the table is real and dated, with its source and window in the line under it:
 Search Console (`agents/state/gsc-series.json` in wholesale-landing), the index counts
 (`gsc-index-history.jsonl`), and agent merges from `agents/state/ledger.jsonl` (playbook not
-"manual", gate_result "MERGED"). Compare like windows (28 days against the 28 before). When you
+"manual", gate_result "MERGED"). Compare like windows: whole calendar months, April 2026 (the first full month Search Console holds)
+against the last complete one, with the current month as a daily rate. When you
 refresh one, refresh the date line with it; a stale number reads as a false one.

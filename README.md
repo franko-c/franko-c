@@ -4,14 +4,14 @@ I build almost all of it with large language models, Claude in particular, and s
 
 ### The numbers so far
 
-| | Before | Now |
+| | April 2026 | October 2026 |
 | --- | --- | --- |
-| Google search impressions, 28 days | 3,344 | **10,254** (3x) |
-| Clicks from search, 28 days | 45 | **117** |
+| Google search impressions a month | 512 | **6,274** (12x) |
+| Clicks from search a month | 11 | **75** (7x) |
 | Pages in Google's index | 16 of 56 | **63 of 65** |
 | Changes the agent has shipped by itself | 0 | **72** |
 
-Search Console, 28 days to 13 November 2026 against the 28 days before; index counts 7 October to 14 November. The agent's 72 include 25 blog posts, 4 market reports and 16 weekly Market Notes.
+November is running at 484 impressions a day, more than double October's 202. Search Console monthly totals, the first full month on record against the last complete one; index counts 7 October to 14 November. The agent's 72 include 25 blog posts, 4 market reports and 16 weekly Market Notes.
 
 ### ortaggi.co.uk
 
