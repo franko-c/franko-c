@@ -24,10 +24,9 @@ python3 check-voice.py README.md     # must be 0
 
 ## Links
 
-**Twenty-one of twenty-three repos are private.** A repo link in this file 404s
-for everyone who is not the owner, so the README points at what is running
-instead: ortaggi.co.uk and the market site. `training_insights` is the
-only public repo and the only repo link.
+**Almost every repo is private.** A repo link in this file 404s for everyone who is not the
+owner, so the README points at what is running instead: ortaggi.co.uk and the market site. No repo
+links (owner, 2026-11-15: the Zwift dashboard is out too).
 
 Before pushing, check every link as a logged-out visitor:
 

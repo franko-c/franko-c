@@ -34,4 +34,4 @@ A weekly letter from the market floor for chefs: what is in season, what is scar
 
 TypeScript, Node and Next.js, Tailwind, Vitest and Playwright. Netlify, Cloudflare Workers and D1, Postgres, Frappe. Claude Code for the agents, Bash for whatever runs on a timer.
 
-Most of this is private because it runs a live business. The one public repo is **[training_insights](https://github.com/franko-c/training_insights)**, a Zwift racing dashboard: bikes are what I do when the market is shut.
+Most of this is private because it runs a live business.
